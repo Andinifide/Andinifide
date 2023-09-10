@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andini Fitriani Dewi
 - 👀 I’m interested in anything related to Data specially in data analytics 
-- 🌱 I’m currently learning data analytics in RevoU and all lesson related to it.
+- 🌱 I’m currently learning data analytics in RevoU consists of Python, MySQL, and also Data Visualization Tools like Tableau and Looker.
 - 💞️ I’m looking to collaborate as junior data analyst
 - 📫 You can contact me at d.andinifitriani@gmail.com
 
